@@ -1,0 +1,15 @@
+Bugs List:
+
+1. Instead of Product Page as title in Catalog, get the Category to show...Breads
+2. 
+3. Translate all the text which are outside database in French
+4. Check teacher requirement
+5. Change X to * in shopping cart		=> done
+6. EN/FR toggle have to change or highligh when selected	=> done
+7. Adding more space to the carousel ..it shrank after removing text
+8. Navigation bar changes in french version. not in order.
+9. Error in product page, french version	=> No error
+10. header not in one line, french version  => Confiez-nous la tâche de faire vos courses!
+11. change password doesnt work. 
+	if enter old password => error
+	if not enter old password => no error but password doesnt change	=> No error

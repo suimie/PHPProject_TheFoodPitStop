@@ -1,0 +1,474 @@
+20180502_01:20:38 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_01:20:38 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='james@email.com'Result : [0]
+20180502_01:22:55 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_01:23:34 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_01:24:04 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_01:24:04 [C:\xampp\htdocs\TheFoodPitStop\includes\check_login1.php:26SELECT * FROM users WHERE email='peter@mail.com':]
+20180502_01:24:04 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_01:24:04 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='peter@mail.com'Result : [0]
+20180502_02:33:09 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_02:33:09 [images/CTG0001/B0004.jpg:]
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_02:33:13 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_02:33:13 [images/CTG0001/B0003.jpg:]
+20180502_02:33:13 [images/CTG0001/B0002.jpg:]
+20180502_02:33:13 [images/CTG0001/B0004.jpg:]
+20180502_02:33:13 [images/CTG0001/B0005.jpg:]
+20180502_02:33:13 [images/CTG0001/B0006.jpg:]
+20180502_02:33:13 [images/CTG0001/B0007.jpg:]
+20180502_02:33:13 [images/CTG0001/B0008.jpg:]
+20180502_02:33:13 [images/CTG0001/B0009.jpg:]
+20180502_02:33:13 [images/CTG0001/B0010.jpg:]
+20180502_02:34:21 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_02:41:56 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:01:21 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:02:09 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:02:09 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:02:09 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('Valini', 'asad', 'SD', '$2y$10$mVOOMtfXF2dxPIH2X7byq.sGDgs5tjOJNY4SgTmCG0xA2R0paqVvu', 'jon@mail.com', 'w41241', 'wddw');
+20180502_03:02:09 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[jon@mail.com] is inserted successfully.
+20180502_03:16:48 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:16:48 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:16:48 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('qeqw', 'qeqee', 'eqwew', '$2y$10$n692cEphHqc.9n90hhnfNeXP/TxUl8IAFtBA5K/ZyfmvE2ZYb9.j2', 'aff@mail.com', '123 445 6778', 'sffs33');
+20180502_03:16:48 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[aff@mail.com] is inserted successfully.
+20180502_03:17:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:17:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:17:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('qewqe', 'qwewwq', 'ew', '$2y$10$altOX8GI1hMAx.sqtBq88.JRCNfz61zxla5U8jOvM8maYq3FkiyfK', 'qw@mas.com', '123242434334', 'dsdsd32332');
+20180502_03:17:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[qw@mas.com] is inserted successfully.
+20180502_03:18:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:18:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:18:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('vak', 'qwe', 'errt', '$2y$10$J6uLrD0dx.qLj0kF.3kXr.IePCqm2DLrY8RLoEAvXZT9joJKaEFfG', 'sdd@mail.com', '12345677', 'sd123333');
+20180502_03:18:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[sdd@mail.com] is inserted successfully.
+20180502_03:27:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:27:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:27:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('james', 'underwood', 'JU', '$2y$10$Tm.xcyUGeV8KJmB/Ovg.LexeEvOvR6mPArFH18vLfGgWiibVUaLnC', 'jbe@mail.com', '123 345 5667', 'sffff');
+20180502_03:27:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[jbe@mail.com] is inserted successfully.
+20180502_03:38:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:38:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:38:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('tss', 'sss', 'ss', '$2y$10$M1EnWv3ngVsQ/rXASASotOB2ob.N73JFCkfQBjjACMijd8XJ9Uc0i', 'ma@mail.com', '514 122 1234', 'ssss');
+20180502_03:38:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[ma@mail.com] is inserted successfully.
+20180502_03:54:24 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:54:24 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_03:54:24 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('asdd', 'qwee', 'wer', '$2y$10$1PoObhzAQtmCHEvdBZsBDeGW9ucy.P50LFvRYRD17Sl748kEbnJnC', 'as@eam.com', '312  123 4566', 'ddd2333');
+20180502_03:54:24 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[as@eam.com] is inserted successfully.
+20180502_04:09:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:09:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:09:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('weeddff', 'fff', 'wer', '$2y$10$GyWCMsSubd4CK/J0QwQQAu778tYmqxU2atsMI1j8Jj4WdQi24rjlu', 'assg@email.com', '12344566667', 'dddfdf');
+20180502_04:09:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[assg@email.com] is inserted successfully.
+20180502_04:14:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:14:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:14:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('wweew', 'wdwdw', 'rrr', '$2y$10$0sLvVzbjAJBAPJqckH/DDu5AVtdgZQyJqr/A2DblkHq5i/DD7Y9a.', 'as@ssd.vuh', '12344566667', 'ssds`23113');
+20180502_04:14:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[as@ssd.vuh] is inserted successfully.
+20180502_04:24:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-Access denied for user 'root'@'localhost' (using password: NO)
+20180502_04:24:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-Access denied for user 'root'@'localhost' (using password: NO)
+20180502_04:24:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('sddsvs', 'qwdwqq', 'qettr', '$2y$10$M02zmzQTuny6/5Kk7n.20u8CgbisEG9W2oPEYfNVUkMKGfce2hC.i', 'dds@email.com', '42242424253', 'we1233');
+20180502_04:24:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:636]Error: INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('sddsvs', 'qwdwqq', 'qettr', '$2y$10$M02zmzQTuny6/5Kk7n.20u8CgbisEG9W2oPEYfNVUkMKGfce2hC.i', 'dds@email.com', '42242424253', 'we1233');
+20180502_04:25:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:25:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:25:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('sddsvs', 'qwdwqq', 'qettr', '$2y$10$H8Tv9Qc6wWRZJBt5xs3QuOI6VObKe1EdG.x1xmszt2bxaF/804xXS', 'dds@email.com', '42242424253', 'we1233');
+20180502_04:25:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[dds@email.com] is inserted successfully.
+20180502_04:26:17 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:26:17 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_04:26:17 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('fweweffew', 'qwqqw', 'weeefef', '$2y$10$ErcpRho7BKK/UjG5x4mNTeebKxpfsSyWb/RN28teUukKqqO.gG2li', 'mail@com.com', '31333213232', 'qewqrrrr');
+20180502_04:26:17 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[mail@com.com] is inserted successfully.
+20180502_05:11:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:11:29 [C:\xampp\htdocs\TheFoodPitStop\includes\check_login1.php:26SELECT * FROM users WHERE email='val@mac.com':]
+20180502_05:11:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:11:29 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:12:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:630]INSERT INTO users (firstName, lastName, username, password, email, phone, plateNo)VALUES('Toopy', 'Binou', 'TB', '$2y$10$CgFCsQNvClO0R.dYxleK7OOXfS/YnqfbKw.Xz.BteJ1sk6gWkqCuq', 'tb@mail.com', '12324455666', 'ssada12211212');
+20180502_05:12:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:632]One user record[tb@mail.com] is inserted successfully.
+20180502_05:12:22 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:22 [C:\xampp\htdocs\TheFoodPitStop\includes\check_login1.php:26SELECT * FROM users WHERE email='tb@mail.com':]
+20180502_05:12:22 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:22 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:12:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:12:26 [images/CTG0001/B0003.jpg:]
+20180502_05:12:26 [images/CTG0001/B0002.jpg:]
+20180502_05:12:26 [images/CTG0001/B0001.jpg:]
+20180502_05:12:26 [images/CTG0001/B0004.jpg:]
+20180502_05:12:26 [images/CTG0001/B0005.jpg:]
+20180502_05:12:26 [images/CTG0001/B0006.jpg:]
+20180502_05:12:27 [images/CTG0001/B0007.jpg:]
+20180502_05:12:27 [images/CTG0001/B0008.jpg:]
+20180502_05:12:27 [images/CTG0001/B0009.jpg:]
+20180502_05:12:27 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:27 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:31 [images/CTG0001/B0001.jpg:]
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0001' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:12:31 [images/CTG0001/B0003.jpg:]
+20180502_05:12:31 [images/CTG0001/B0002.jpg:]
+20180502_05:12:31 [images/CTG0001/B0004.jpg:]
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:31 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:12:33 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:33 [images/CTG0001/B0001.jpg:]
+20180502_05:12:39 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:39 [images/CTG0001/B0001.jpg:]
+20180502_05:12:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:41 [images/CTG0001/B0001.jpg:]
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:12:46 [images/CTG0001/B0003.jpg:]
+20180502_05:12:46 [images/CTG0001/B0002.jpg:]
+20180502_05:12:46 [images/CTG0001/B0001.jpg:]
+20180502_05:12:46 [images/CTG0001/B0004.jpg:]
+20180502_05:12:46 [images/CTG0001/B0005.jpg:]
+20180502_05:12:46 [images/CTG0001/B0006.jpg:]
+20180502_05:12:46 [images/CTG0001/B0007.jpg:]
+20180502_05:12:46 [images/CTG0001/B0008.jpg:]
+20180502_05:12:46 [images/CTG0001/B0009.jpg:]
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:46 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:183BR0002:]
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]brandId = 'BR0002'
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:201]brandId = 'BR0002'
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products WHERE brandId = 'BR0002'
+20180502_05:12:49 [images/CTG0001/B0002.jpg:]
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:49 [images/CTG0001/B0014.jpg:]
+20180502_05:12:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:12:49 [images/CTG0002/D0010.jpg:]
+20180502_05:12:49 [images/CTG0002/D0016.jpg:]
+20180502_05:12:49 [images/CTG0001/B0018.jpg:]
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:52 [images/CTG0001/B0002.jpg:]
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0002' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:12:52 [images/CTG0001/B0003.jpg:]
+20180502_05:12:52 [images/CTG0001/B0001.jpg:]
+20180502_05:12:52 [images/CTG0001/B0004.jpg:]
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:12:53 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:12:53 [images/CTG0001/B0002.jpg:]
+20180502_05:12:53 [images/CTG0001/B0001.jpg:]
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:13:40 [images/CTG0001/B0003.jpg:]
+20180502_05:13:40 [images/CTG0001/B0002.jpg:]
+20180502_05:13:40 [images/CTG0001/B0001.jpg:]
+20180502_05:13:40 [images/CTG0001/B0004.jpg:]
+20180502_05:13:40 [images/CTG0001/B0005.jpg:]
+20180502_05:13:40 [images/CTG0001/B0006.jpg:]
+20180502_05:13:40 [images/CTG0001/B0007.jpg:]
+20180502_05:13:40 [images/CTG0001/B0008.jpg:]
+20180502_05:13:40 [images/CTG0001/B0009.jpg:]
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:172]CTG0002
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]categoryId = 'CTG0002'
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+ELECT DISTINCT(brandId), brand from products WHERE categoryId = 'CTG0002'
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:198]categoryId = 'CTG0002'
+20180502_05:13:41 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products WHERE categoryId = 'CTG0002'
+20180502_05:13:41 [images/CTG0002/D0001.jpg:]
+20180502_05:13:41 [images/CTG0002/D0002.jpg:]
+20180502_05:13:41 [images/CTG0002/D0003.jpg:]
+20180502_05:13:41 [images/CTG0002/D0004.jpg:]
+20180502_05:13:41 [images/CTG0002/D0005.jpg:]
+20180502_05:13:41 [images/CTG0002/D0006.jpg:]
+20180502_05:13:41 [images/CTG0002/D0007.jpg:]
+20180502_05:13:41 [images/CTG0002/D0008.jpg:]
+20180502_05:13:41 [images/CTG0002/D0009.jpg:]
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:43 [images/CTG0002/D0003.jpg:]
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0002
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0002'
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='D0003' AND categoryId = 'CTG0002' LIMIT 3
+20180502_05:13:43 [images/CTG0002/D0001.jpg:]
+20180502_05:13:43 [images/CTG0002/D0002.jpg:]
+20180502_05:13:43 [images/CTG0002/D0004.jpg:]
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:13:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:45 [images/CTG0001/B0002.jpg:]
+20180502_05:13:45 [images/CTG0001/B0001.jpg:]
+20180502_05:13:45 [images/CTG0002/D0003.jpg:]
+20180502_05:13:48 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:48 [images/CTG0001/B0002.jpg:]
+20180502_05:13:48 [images/CTG0001/B0001.jpg:]
+20180502_05:13:48 [images/CTG0002/D0003.jpg:]
+20180502_05:13:56 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:13:56 [images/CTG0001/B0002.jpg:]
+20180502_05:13:56 [images/CTG0001/B0001.jpg:]
+20180502_05:13:56 [images/CTG0002/D0003.jpg:]
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:14:01 [images/CTG0001/B0003.jpg:]
+20180502_05:14:01 [images/CTG0001/B0002.jpg:]
+20180502_05:14:01 [images/CTG0001/B0001.jpg:]
+20180502_05:14:01 [images/CTG0001/B0004.jpg:]
+20180502_05:14:01 [images/CTG0001/B0005.jpg:]
+20180502_05:14:01 [images/CTG0001/B0006.jpg:]
+20180502_05:14:01 [images/CTG0001/B0007.jpg:]
+20180502_05:14:01 [images/CTG0001/B0008.jpg:]
+20180502_05:14:01 [images/CTG0001/B0009.jpg:]
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:01 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:308]category like '%cake%' OR category_fr like '%cake%' OR name like '%cake%' OR name_fr like '%cake%' OR description1 like '%cake%' OR description1_fr like '%cake%' OR description2 like '%cake%' OR description2_fr like '%cake%'
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:315]SELECT * from products WHERE category like '%cake%' OR category_fr like '%cake%' OR name like '%cake%' OR name_fr like '%cake%' OR description1 like '%cake%' OR description1_fr like '%cake%' OR description2 like '%cake%' OR description2_fr like '%cake%'
+20180502_05:14:08 [images/CTG0001/B0006.jpg:]
+20180502_05:14:08 [images/CTG0001/B0011.jpg:]
+20180502_05:14:08 [images/CTG0001/B0012.jpg:]
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:08 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:14 [images/CTG0001/B0011.jpg:]
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0011' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:14:14 [images/CTG0001/B0003.jpg:]
+20180502_05:14:14 [images/CTG0001/B0002.jpg:]
+20180502_05:14:14 [images/CTG0001/B0001.jpg:]
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:14:16 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:16 [images/CTG0001/B0002.jpg:]
+20180502_05:14:16 [images/CTG0001/B0001.jpg:]
+20180502_05:14:16 [images/CTG0001/B0011.jpg:]
+20180502_05:14:16 [images/CTG0002/D0003.jpg:]
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:308]category like '%muffins%' OR category_fr like '%muffins%' OR name like '%muffins%' OR name_fr like '%muffins%' OR description1 like '%muffins%' OR description1_fr like '%muffins%' OR description2 like '%muffins%' OR description2_fr like '%muffins%'
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:315]SELECT * from products WHERE category like '%muffins%' OR category_fr like '%muffins%' OR name like '%muffins%' OR name_fr like '%muffins%' OR description1 like '%muffins%' OR description1_fr like '%muffins%' OR description2 like '%muffins%' OR description2_fr like '%muffins%'
+20180502_05:14:23 [images/CTG0001/B0002.jpg:]
+20180502_05:14:23 [images/CTG0001/B0005.jpg:]
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:23 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:26 [images/CTG0001/B0005.jpg:]
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0005' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:14:26 [images/CTG0001/B0003.jpg:]
+20180502_05:14:26 [images/CTG0001/B0002.jpg:]
+20180502_05:14:26 [images/CTG0001/B0001.jpg:]
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:26 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:14:27 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:27 [images/CTG0001/B0002.jpg:]
+20180502_05:14:27 [images/CTG0001/B0001.jpg:]
+20180502_05:14:27 [images/CTG0001/B0005.jpg:]
+20180502_05:14:27 [images/CTG0001/B0011.jpg:]
+20180502_05:14:27 [images/CTG0002/D0003.jpg:]
+20180502_05:14:37 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:37 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:14:37 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:432]INSERT INTO sales (date, username, pickupDate, pickupTime, subtotal, tax, total) VALUES ('2018-05-02', 'tb@mail.com', '', '', 87.15, 0, 87.15)
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:435]New record created successfully. Last inserted ID is:0
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:121]To be inserted data list
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:122]B0005 : 1
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:121]To be inserted data list
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:122]B0011 : 1
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:121]To be inserted data list
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:122]B0002 : 1
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:121]To be inserted data list
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:122]B0001 : 3
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:121]To be inserted data list
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\contents\payment.php:122]D0003 : 21
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:460]INSERT INTO salesdetails (salesId, productId, Qty) VALUES (0, 'B0005', 1) , (0, 'B0011', 1) , (0, 'B0002', 1) , (0, 'B0001', 3) , (0, 'D0003', 21) 
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:462]New sailes details record created successfully.
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:17:42 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:17:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:17:43 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:18:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:18:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:649]SELECT * from users WHERE email='tb@mail.com'
+20180502_05:18:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:18:52 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:607]UPDATE users SET plateNo='ssada12211212', phone ='12324455666', lastName ='Binou', firstName ='Toopy', username ='TB', password ='$2y$10$Pq5vCDhTTTCxdj33SiBAZuGXgUE3.n5gRF1E4BNRqFzXxUXXHhxf6' WHERE email='tb@mail.com'
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:609]One user record[tb@mail.com] is updated successfully.
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:649]SELECT * from users WHERE email='tb@mail.com'
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:20 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:19:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:40 [C:\xampp\htdocs\TheFoodPitStop\includes\check_login1.php:26SELECT * FROM users WHERE email='tb@mail.com':]
+20180502_05:19:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:19:40 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:20:51 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:20:51 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:20:58 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:20:58 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:21:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:21:14 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:22:25 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:22:25 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='tb@mail.com'Result : [0]
+20180502_05:22:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:22:45 [C:\xampp\htdocs\TheFoodPitStop\includes\check_login1.php:26SELECT * FROM users WHERE email='val@mac.com':]
+20180502_05:22:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:22:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:22:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:22:49 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:23:04 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:23:04 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:23:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:23:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:25:37 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:25:37 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:25:59 [images/CTG0001/B0003.jpg:]
+20180502_05:25:59 [images/CTG0001/B0002.jpg:]
+20180502_05:25:59 [images/CTG0001/B0001.jpg:]
+20180502_05:25:59 [images/CTG0001/B0004.jpg:]
+20180502_05:25:59 [images/CTG0001/B0005.jpg:]
+20180502_05:25:59 [images/CTG0001/B0006.jpg:]
+20180502_05:25:59 [images/CTG0001/B0007.jpg:]
+20180502_05:25:59 [images/CTG0001/B0008.jpg:]
+20180502_05:25:59 [images/CTG0001/B0009.jpg:]
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:25:59 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]categoryId = 'CTG0001'
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:198]categoryId = 'CTG0001'
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products WHERE categoryId = 'CTG0001'
+20180502_05:26:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products WHERE categoryId = 'CTG0001'
+20180502_05:26:00 [images/CTG0001/B0003.jpg:]
+20180502_05:26:01 [images/CTG0001/B0002.jpg:]
+20180502_05:26:01 [images/CTG0001/B0001.jpg:]
+20180502_05:26:01 [images/CTG0001/B0004.jpg:]
+20180502_05:26:01 [images/CTG0001/B0005.jpg:]
+20180502_05:26:01 [images/CTG0001/B0006.jpg:]
+20180502_05:26:01 [images/CTG0001/B0007.jpg:]
+20180502_05:26:01 [images/CTG0001/B0008.jpg:]
+20180502_05:26:01 [images/CTG0001/B0009.jpg:]
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:02 [images/CTG0001/B0002.jpg:]
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0002' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:26:02 [images/CTG0001/B0003.jpg:]
+20180502_05:26:02 [images/CTG0001/B0001.jpg:]
+20180502_05:26:02 [images/CTG0001/B0004.jpg:]
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:02 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:26:34 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:34 [images/CTG0001/B0002.jpg:]
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:63]SELECT DISTINCT(categoryId), category, category_fr from products WHERE category_fr <> ''
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:135]SELECT DISTINCT(brandId), brand from products
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:190]
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:191]
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:206]SELECT * from products 
+20180502_05:26:44 [images/CTG0001/B0003.jpg:]
+20180502_05:26:44 [images/CTG0001/B0002.jpg:]
+20180502_05:26:44 [images/CTG0001/B0001.jpg:]
+20180502_05:26:44 [images/CTG0001/B0004.jpg:]
+20180502_05:26:44 [images/CTG0001/B0005.jpg:]
+20180502_05:26:44 [images/CTG0001/B0006.jpg:]
+20180502_05:26:44 [images/CTG0001/B0007.jpg:]
+20180502_05:26:44 [images/CTG0001/B0008.jpg:]
+20180502_05:26:44 [images/CTG0001/B0009.jpg:]
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:45 [images/CTG0001/B0001.jpg:]
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:243]CTG0001
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:251]categoryId = 'CTG0001'
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:257]SELECT * from products WHERE pid!='B0001' AND categoryId = 'CTG0001' LIMIT 3
+20180502_05:26:45 [images/CTG0001/B0003.jpg:]
+20180502_05:26:45 [images/CTG0001/B0002.jpg:]
+20180502_05:26:45 [images/CTG0001/B0004.jpg:]
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:45 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:26:47 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:47 [images/CTG0001/B0001.jpg:]
+20180502_05:26:50 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:50 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:26:50 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:27:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:27:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:27:00 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:33:51 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:33:51 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:33:53 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:33:53 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:33:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:33:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:33:56 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:33:56 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:33:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:33:57 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:40:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:40:44 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:43:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:43:54 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]
+20180502_05:43:55 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:36]Succeeded  to Connect to  MySQL-
+20180502_05:43:55 [C:\xampp\htdocs\TheFoodPitStop\includes\database.php:549]SELECT isAdmin FROM users WHERE email='val@mac.com'Result : [1]

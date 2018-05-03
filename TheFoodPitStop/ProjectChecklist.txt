@@ -1,0 +1,20 @@
+PHP (Content/Text) 5% 
+PHP Functions (Formatting and Appearance) 5% 
+PHP Classes (Content/Text) 5% 
+PHP MVC 5% 
+PHP Forms 5% 
+PHP Database Connector 5% 
+MySQL Database 5% 
+PHP Libraries 5% 
+PHP extra Features (using of AJAX, JSON, …) 5% 
+Error Handling 5% 
+JavaScript 5% 
+Content (English and French) 5% 
+Security 5% 
+Applying the context of Search Engine Optimization Starter Guide 5% 
+Spelling, Punctuation, & Grammar 5% 
+Graphics and images 5% 
+Layout 5% 
+Overall Quality 5% 
+Web Features 5% 
+Work Ethic 5% 

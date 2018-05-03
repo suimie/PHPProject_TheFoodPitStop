@@ -1,0 +1,24 @@
+1.Changes we made based on teacher's feedback to our project after presentation:
+a.We added password confirmation in Registration Form
+b.After user logs in and click on contact us, the user's info appears in Contact Form fields.
+c.In Product Page, when we hover over the categories and brand on the side bar, the cursor pointer changes.
+
+
+2.To create pitstop tables, please use the included pitstop.sql file.
+
+3.to login the FoodPitStop database:
+
+Admin
+username:val@mac.com
+password:123
+
+User
+username:james@email.com
+password:123
+
+
+4.Sample credit card information to shop:
+
+4111 1111 1111 1111
+
+
